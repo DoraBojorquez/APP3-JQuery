@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<icon src="/logo.png" gap:density="ldpi" gap:platform="android" />
+<icon src="/logo.png" gap:density="mdpi" gap:platform="android" />
+<icon src="/logo.png" gap:density="hdpi" gap:platform="android" />
+<icon src="/logo.png" gap:density="xhdpi" gap:platform="android" />
